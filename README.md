@@ -27,6 +27,9 @@ all      :set $POWER, enable monitor mode and airodump-ng
 
 channel  :set desired channel 1-13 (optional)
 
+**Screenshot**
+
+http://simplest-image-hosting.net/png-0-ww
 
 **Optional**
 

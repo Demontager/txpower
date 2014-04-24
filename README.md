@@ -5,7 +5,8 @@ txpower.sh
 Overview
 ========
 
-Automatic txpower increase on RTL8187 chip aka "Alfa Awus036" and/or starting monitor mode
+Automatic txpower increase on RTL8187 chip aka "Alfa Awus036" and/or starting monitor mode.
+
 Txpower solving the problem on Alfa Awus036 when it has no full power output e.g. 30 dbm. It's power limited to 15-17 dbm by default. Core problem that some countries regulations do not allow setting high wifi power output and few of them allow. So txpower get this advantage at set proper coutry where high power allowed.
 Also script has option to put wifi card into monitor mode after increasing power. Another option is to monitor defined channel (above two options useful for wifi pentesting)
 

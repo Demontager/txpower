@@ -27,5 +27,6 @@ all      :set $POWER, enable monitor mode and airodump-ng
 channel  :set desired channel 1-13 (optional)
 
 
-*Optional*
+**Optional**
+
 3. Set required power limit in script body.

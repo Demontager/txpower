@@ -17,13 +17,18 @@ Also script has option to put wifi card into monitor mode after increasing power
 
 2. Run it without arguments to see the list of available options
 
-power    :set $POWER
+**Optional**
+
+3. Set required power limit in script body.
+
+
+power    :set 30dbm
 
 start    :enable monitor mode and airodump-ng
 
 stop     :disable monitor mode
 
-all      :set $POWER, enable monitor mode and airodump-ng
+all      :set 30dbm, enable monitor mode and airodump-ng
 
 channel  :set desired channel 1-13 (optional)
 
@@ -31,6 +36,4 @@ channel  :set desired channel 1-13 (optional)
 
 http://simplest-image-hosting.net/png-0-ww
 
-**Optional**
 
-3. Set required power limit in script body.

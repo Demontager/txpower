@@ -1,4 +1,4 @@
-txpower.sh
+txpower
 =======
 
 

@@ -19,8 +19,10 @@ Also script has option to put wifi card into monitor mode after increasing power
 
 **Optional**
 
-3. Set required power limit in script body.
+Set required power limit in script body.
 
+
+**Arguments**
 
 power    :set 30dbm
 

@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # Automatic txpower increase and/or starting monitor mode
 # Author:demontager
-# website: http://nixtalk.com
+
 
 from os import getuid, devnull
 from re import findall

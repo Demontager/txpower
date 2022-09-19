@@ -1,7 +1,7 @@
 #!/bin/bash
 #Purpose: Automatic txpower increase and/or starting monitor mode
 #Author:demontager
-#website:nixtalk.com
+
 
 IFACE=`echo $2`
 CH=`echo $3`
